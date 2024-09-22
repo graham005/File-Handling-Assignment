@@ -1,0 +1,6 @@
+This is the first line of text.
+This is the second line, with a number: 123.
+Finally, this is the third line.
+Appending a new line to the file.
+Adding another line with a number: 456.
+This is the last appended line.
